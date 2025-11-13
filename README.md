@@ -43,7 +43,7 @@ This is the first version of the app, the Community promises more interactive ga
 Special thanks to every contribution to the current success of the movement.
  - [JayTechEnt](https://github.com/Jaytechent) 
  - [Gozkybrain](https://github.com/Gozkybrain) 
- - [The Sarcastic Geeks Trybe 🚀](https://x.com/sarcasticgeek4u)
+ - [The Sarcastic Geeks Trybe](https://x.com/sarcasticgeek4u)
 
 
 *Built for the Xion ecosystem - Redefining user onboarding in web3*
