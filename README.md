@@ -1,4 +1,4 @@
-# Straight Edge on Xion
+# Straight Edge GameFi on Xion
 
 ![Xion Network Logo](./cover-art.png)
 
