@@ -16,7 +16,7 @@ This is the first version of the app, the Community promises more interactive ga
 - Real-time balance updates
 - Transaction confirmation flow
 
-## Key Features
+## The Key Features
 ✅ **User-Friendly Interface**  
 ✅ **Testnet Token Rewards**  
 ✅ **Wallet Integration**  
